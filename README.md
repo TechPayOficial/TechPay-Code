@@ -17,7 +17,7 @@ O TECHPAY permite que os usuários efetuem pagamentos instantâneos e seguros, s
 
 Contrato Inteligente de Código Aberto:<br>
 O contrato inteligente do TECHPAY é totalmente transparente e auditável, pois é de código aberto. Isso significa que qualquer pessoa pode examinar o código-fonte para garantir sua integridade e segurança, aumentando a confiança dos usuários no ecossistema TECHPAY.
-<br>
+<br><br>
 Tecnologias de Privacidade:<br><br>
 O TECHPAY implementa diversas tecnologias de privacidade para garantir o anonimato das transações:<br>
 
