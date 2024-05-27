@@ -7,17 +7,17 @@ Decimais: 18<br>
 
 Descrição do Token:<br>
 TECHPAY (TPAY) é um token ERC-20 desenvolvido com um foco excepcional em garantir a máxima privacidade e segurança para os usuários dentro do ecossistema das finanças descentralizadas (DeFi). O TECHPAY foi projetado para oferecer uma solução transparente e confiável para os desafios de privacidade enfrentados pelas transações financeiras na blockchain.
-
+<br>
 Funcionalidades Principais:<br><br>
 Transações Anônimas:<br>
-O TECHPAY garante anonimato absoluto para os usuários, não registrando detalhes das transações na blockchain. Ao enviar TPAY, o destino da transação é obscurecido pelo endereço do contrato, garantindo que as atividades financeiras permaneçam confidenciais.
+O TECHPAY garante anonimato absoluto para os usuários, não registrando detalhes das transações na blockchain. Ao enviar TPAY, o destino da transação é obscurecido pelo endereço do contrato, garantindo que as atividades financeiras permaneçam confidenciais.<br>
 
 Pagamentos Instantâneos e Seguros:<br>
-O TECHPAY permite que os usuários efetuem pagamentos instantâneos e seguros, sem comprometer a privacidade. As transações são executadas de forma rápida e eficiente, proporcionando uma experiência semelhante ao dinheiro físico, mas com os benefícios da tecnologia blockchain.
+O TECHPAY permite que os usuários efetuem pagamentos instantâneos e seguros, sem comprometer a privacidade. As transações são executadas de forma rápida e eficiente, proporcionando uma experiência semelhante ao dinheiro físico, mas com os benefícios da tecnologia blockchain.<br>
 
 Contrato Inteligente de Código Aberto:<br>
 O contrato inteligente do TECHPAY é totalmente transparente e auditável, pois é de código aberto. Isso significa que qualquer pessoa pode examinar o código-fonte para garantir sua integridade e segurança, aumentando a confiança dos usuários no ecossistema TECHPAY.
-
+<br>
 Tecnologias de Privacidade:<br><br>
 O TECHPAY implementa diversas tecnologias de privacidade para garantir o anonimato das transações:<br>
 
