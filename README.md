@@ -23,7 +23,7 @@ O TECHPAY implementa diversas tecnologias de privacidade para garantir o anonima
 
 Obscurecimento do Destino: O destino das transações é obscurecido pelo endereço do contrato, ocultando as informações do destinatário.<br>
 Ausência de Registros: O TECHPAY não mantém registros das transações na blockchain, garantindo total privacidade para os usuários.<br>
-Criptografia Avançada: A criptografia utilizada nas transações do TECHPAY é projetada para resistir a tentativas de rastreamento ou identificação.<br>
+Criptografia Avançada: A criptografia utilizada nas transações do TECHPAY é projetada para resistir a tentativas de rastreamento ou identificação.<br><br>
 Aplicações Potenciais:<br><br>
 O TECHPAY pode ser usado em uma variedade de cenários, incluindo:<br>
 
